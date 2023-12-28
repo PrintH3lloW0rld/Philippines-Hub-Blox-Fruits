@@ -187,7 +187,7 @@ mainopens.Parent = mainopen
         imagenoti.AnchorPoint = Vector2.new(0.5, 0.5)
         imagenoti.Position = UDim2.new(0.9, 0, 0.5, 0)
         imagenoti.Size = UDim2.new(0, 90, 0, 90)
-      imagenoti.Image = "rbxassetid://"
+      imagenoti.Image = "rbxassetid://10074877413"
     
         local txdlid = Instance.new("TextLabel")
     
@@ -488,7 +488,7 @@ mainopens.Parent = mainopen
  TabImage.BackgroundTransparency = 1.000
  TabImage.Position = UDim2.new(0, 0, 0, 0)
  TabImage.Size = UDim2.new(0, 20, 0, 20)
- TabImage.Image = img or "rbxassetid://8666601749"
+ TabImage.Image = img or "rbxassetid://10074877413"
  TabImage.ImageColor3 = _G.Color
  
  local MainFramePage = Instance.new("ScrollingFrame")
@@ -838,7 +838,7 @@ end
  ImageLabel.BorderSizePixel = 0
  ImageLabel.Position = UDim2.new(-0.018, 0,-0.252, 0)
  ImageLabel.Size = UDim2.new(0, 45,0, 45)
- ImageLabel.Image = "rbxassetid://"
+ ImageLabel.Image = "rbxassetid://10074877413"
  ImageLabel.ImageColor3 = Color3.fromRGB(224,224,224)
  
  Space.Name = "Space"
@@ -872,7 +872,7 @@ end
  ImageButton.Position = UDim2.new(0, 280, 0, 4)
  ImageButton.Size = UDim2.new(0, 23, 0, 23)
  ImageButton.ZIndex = 2
- ImageButton.Image = "rbxassetid://3926311105"
+ ImageButton.Image = "rbxassetid://10074877413"
  ImageButton.ImageColor3 = Color3.fromRGB(224,224,224)
  ImageButton.ImageRectOffset = Vector2.new(940, 784)
  ImageButton.ImageRectSize = Vector2.new(48, 48)
@@ -976,7 +976,7 @@ end
  DropImage.Position = UDim2.new(0, 280, 0, 6)
  DropImage.Rotation = 180.000
  DropImage.Size = UDim2.new(0, 20, 0, 20)
- DropImage.Image = "rbxassetid://6031090990"
+ DropImage.Image = "rbxassetid://10074877413"
  
  DropButton.Name = "DropButton"
  DropButton.Parent = Dropdown
@@ -1188,7 +1188,7 @@ ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.BorderSizePixel = 0
 ImageLabel.Position = UDim2.new(0, 5, 0, 5)
 ImageLabel.Size = UDim2.new(0, 18, 0, 18)
-ImageLabel.Image = "rbxassetid://"
+ImageLabel.Image = "rbxassetid://10074877413"
 ImageLabel.ImageColor3 = Color3.fromRGB(224,224,224)
 
 Space.Name = "Space"
@@ -3684,7 +3684,7 @@ end
                 inf.Rotation = NumberRange.new(0, 0)
                 inf.Speed = NumberRange.new(30, 30)
                 inf.SpreadAngle = Vector2.new(0,0,0,0)
-                inf.Texture = "rbxassetid://243098098"
+                inf.Texture = "rbxassetid://10074877413"
                 inf.VelocityInheritance = 0
                 inf.ZOffset = 2
                 inf.Transparency = NumberSequence.new(0)
@@ -4286,18 +4286,18 @@ spawn(function()
 end)
 
 --------------------------
-local Main = Library:Tab("🏠Main","rbxassetid://11446825283")
-local Setting = Library:Tab("⚙Settings","rbxassetid://11446835336")
-local Weapon = Library:Tab("🔱Weapons","rbxassetid://11446859498")
-local Race = Library:Tab("🦈Race V4","rbxassetid://11446900930")
-local Stats = Library:Tab("0️⃣Stats","rbxassetid://11447069304")
-local P = Library:Tab("👨🏿‍💻Player","rbxassetid://11446900930")
-local Teleport = Library:Tab("🕳Teleport","rbxassetid://11446920523")
-local Dungeon = Library:Tab("⚔Dungeon/Raid","rbxassetid://11446957539")
-local DevilFruit = Library:Tab("🍇Fruit n` Esp","rbxassetid://11446965348")
-local Shop = Library:Tab("🛒Shop","rbxassetid://6031265976")
-local Misc = Library:Tab("🛠Misc","rbxassetid://11447063791")
-local Op = Library:Tab("✅Status Acc", "rbxassetid://7040410130")
+local Main = Library:Tab("🏠Main","rbxassetid://10074877413")
+local Setting = Library:Tab("⚙Settings","rbxassetid://10074877413")
+local Weapon = Library:Tab("🔱Weapons","rbxassetid://10074877413")
+local Race = Library:Tab("🦈Race V4","rbxassetid://10074877413")
+local Stats = Library:Tab("0️⃣Stats","rbxassetid://10074877413")
+local P = Library:Tab("👨🏿‍💻Player","rbxassetid://10074877413")
+local Teleport = Library:Tab("🕳Teleport","rbxassetid://10074877413")
+local Dungeon = Library:Tab("⚔Dungeon/Raid","rbxassetid://10074877413")
+local DevilFruit = Library:Tab("🍇Fruit n` Esp","rbxassetid://10074877413")
+local Shop = Library:Tab("🛒Shop","rbxassetid://10074877413")
+local Misc = Library:Tab("🛠Misc","rbxassetid://10074877413")
+local Op = Library:Tab("✅Status Acc", "rbxassetid://10074877413")
 --------------------------------------------------------------------
 Main:Label(" 🇵🇭 Philippines Hub: Blox Fruits 🍈")
 Main:Label(" Subscribe to my Youtube Channel ")
