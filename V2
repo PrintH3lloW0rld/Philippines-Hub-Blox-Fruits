@@ -1,9 +1,3 @@
--- // [ Blox Fruits Philippines Hub: Blox Fruits Script Source Code. ] \\
---Still in development
--- GitHub: PrintH3lloW0rld
---YT: BaconExploiter
---FB:Mark Fedillaga
-
 spawn(function()
     repeat
         task.wait()
